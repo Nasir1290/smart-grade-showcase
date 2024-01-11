@@ -1,0 +1,128 @@
+{
+    "classOne": [
+        {
+            "ID": 1,
+            "Name": "Nasir",
+            "Score": "A",
+            "Percentage": "94%"
+        },
+        {
+            "ID": 2,
+            "Name": "Nahid",
+            "Score": "A+",
+            "Percentage": "99%"
+        },
+        {
+            "ID": 3,
+            "Name": "Hridoy",
+            "Score": "B",
+            "Percentage": "82%"
+        },
+        {
+            "ID": 4,
+            "Name": "Sagor",
+            "Score": "A",
+            "Percentage": "94%"
+        },
+        {
+            "ID": 5,
+            "Name": "Mahmodul",
+            "Score": "A-",
+            "Percentage": "89%"
+        },
+        {
+            "ID": 6,
+            "Name": "Hossain",
+            "Score": "B",
+            "Percentage": "82%"
+        },
+        {
+            "ID": 7,
+            "Name": "Sabbir",
+            "Score": "A",
+            "Percentage": "94%"
+        },
+        {
+            "ID": 8,
+            "Name": "Tuhin",
+            "Score": "A-",
+            "Percentage": "89%"
+        },
+        {
+            "ID": 9,
+            "Name": "Tamim",
+            "Score": "B",
+            "Percentage": "82%"
+        },
+        {
+            "ID": 10,
+            "Name": "Imran",
+            "Score": "B",
+            "Percentage": "82%"
+        }
+    ],
+
+
+    "classTwo": [
+        {
+            "ID": 1,
+            "Name": "Anower",
+            "Score": "A",
+            "Percentage": "94%"
+        },
+        {
+            "ID": 2,
+            "Name": "Michael Brown",
+            "Score": "A-",
+            "Percentage": "89%"
+        },
+        {
+            "ID": 3,
+            "Name": "Sophia White",
+            "Score": "B",
+            "Percentage": "82%"
+        },
+        {
+            "ID": 4,
+            "Name": "Eva Davis",
+            "Score": "A",
+            "Percentage": "94%"
+        },
+        {
+            "ID": 5,
+            "Name": "Sumi",
+            "Score": "A-",
+            "Percentage": "89%"
+        },
+        {
+            "ID": 6,
+            "Name": "Farhana",
+            "Score": "B",
+            "Percentage": "82%"
+        },
+        {
+            "ID": 7,
+            "Name": "Trisha",
+            "Score": "A",
+            "Percentage": "94%"
+        },
+        {
+            "ID": 8,
+            "Name": "Mahfuj",
+            "Score": "A-",
+            "Percentage": "89%"
+        },
+        {
+            "ID": 9,
+            "Name": "Tushar",
+            "Score": "B",
+            "Percentage": "82%"
+        },
+        {
+            "ID": 10,
+            "Name": "Polash",
+            "Score": "B",
+            "Percentage": "82%"
+        }
+    ]
+}
